@@ -4,21 +4,39 @@ Personal notes, payloads, labs, and writeups from PortSwigger Web Security Acade
 
 ---
 
-# Topics
+# 📌 Navigation (Click to Open Sections)
 
-- Path Traversal
-- Access Control
-- Authentication Vulnerabilities
-- SSRF
-- File Upload Vulnerabilities
-- OS Command Injection
-- SQL Injection
+- [Path Traversal](Path-Traversal/README.md)
+- [Access Control](Access-Control/README.md)
+- [Authentication Vulnerabilities](Authentication/README.md)
+- [SSRF](SSRF/README.md)
+- [File Upload Vulnerabilities](File-Upload/README.md)
+- [OS Command Injection](OS-Command-Injection/README.md)
+- [SQL Injection](SQL-Injection/README.md)
 
 ---
 
-# Goal
+# 🎯 About This Repo
 
-- Build strong web exploitation skills
-- Organize payloads and techniques
-- Document labs and writeups
-- Create a practical bug bounty knowledge base
+This repository is a structured knowledge base for server-side vulnerabilities including:
+
+- Concepts explained in simple form
+- Real exploitation techniques
+- Common payloads
+- PortSwigger lab notes
+- Bug bounty references
+
+---
+
+# 🧠 Goal
+
+- Learn web exploitation deeply
+- Build a personal reference for pentesting
+- Prepare for bug bounty hunting
+- Document all labs in an organized way
+
+---
+
+# ⚠️ Disclaimer
+
+This content is for educational and authorized security testing only.
