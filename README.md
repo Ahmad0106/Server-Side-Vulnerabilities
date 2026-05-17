@@ -4,7 +4,7 @@ Personal notes, payloads, labs, and writeups from PortSwigger Web Security Acade
 
 ---
 
-# 📌 Navigation (Click to Open Sections)
+# Navigation
 
 - [Path Traversal](Path-Traversal/README.md)
 - [Access Control](Access-Control/README.md)
@@ -16,7 +16,7 @@ Personal notes, payloads, labs, and writeups from PortSwigger Web Security Acade
 
 ---
 
-# 🎯 About This Repo
+# About This Repo
 
 This repository is a structured knowledge base for server-side vulnerabilities including:
 
@@ -28,7 +28,7 @@ This repository is a structured knowledge base for server-side vulnerabilities i
 
 ---
 
-# 🧠 Goal
+# Goal
 
 - Learn web exploitation deeply
 - Build a personal reference for pentesting
